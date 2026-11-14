@@ -24,7 +24,8 @@ public class CharFrequency {
 
             System.out.println(entry.getKey());
          // break;
-         break;
+      // break;
+       break;
            }
 
         }
