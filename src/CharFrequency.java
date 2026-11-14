@@ -23,11 +23,12 @@ public class CharFrequency {
            if(entry.getValue()>1){
 
             System.out.println(entry.getKey());
-            break;
+         // break;
+         break;
            }
 
         }
-
+//
 
     }
 
